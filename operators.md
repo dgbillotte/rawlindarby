@@ -3,6 +3,10 @@
 ### Notes
 - At first I was thinking about having an extensive operator set, but started seeing how it could get out of control. For now it seems simpler to focus on implementing everything as functions to get started.
 
+### Control
+* if/else, switch/match (with patterns), loops
+* ternary : ? & elvis :?
+
 ### Numeric
 * + - * / % ^ (as usual)
 * += -= *= /= %= ^= (as usual)
